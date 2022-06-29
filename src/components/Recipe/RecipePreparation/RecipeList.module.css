@@ -1,0 +1,45 @@
+.recipe {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .recipe h3 {
+    margin: 0 0 0.25rem 0;
+  }
+  
+  .description {
+    font-style: bold;
+  }
+  
+  .price {
+    margin-top: 0.25rem;
+    font-weight: bold;
+    color: #0e96d4;
+    font-size: 3rem;
+  }
+
+  
+  .buttonCSS {
+    text-align: center;
+  }
+  
+  .buttonCSS button {
+    margin-bottom: 15px;
+    font: inherit;
+    cursor: pointer;
+    background-color: #0e96d4;
+    border: 1px solid #0e96d4;
+    color: white;
+    padding: 0.25rem 1rem;
+    border-radius: 0px;
+    font-weight: bold;
+  }
+  
+  .buttonCSS button:hover,
+  .buttonCSS button:active {
+    background-color: #0e96d4;
+    border-color: #0e96d4;
+  }

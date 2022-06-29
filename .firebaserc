@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "bio-rad-d0623",
+    "bio-rad": "bio-rad-d0623"
+  },
+  "targets": {}
+}

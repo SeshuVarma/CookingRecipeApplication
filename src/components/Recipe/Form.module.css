@@ -1,0 +1,25 @@
+  
+  .button {
+    display:inline;
+    top: 100px;
+    margin-right: 5px;
+    font: inherit;
+    cursor: pointer;
+    background-color: #0e96d4;
+    border: 1px solid #0e96d4;
+    color: white;
+    padding: 0.25rem 2rem;
+    border-radius: 0px;
+    font-weight: bold;
+  }
+  
+  .button:hover,
+  .button:active {
+    background-color: #0e96d4;
+    border-color: #0e96d4;
+  }
+
+  .bod{
+    margin-top: 20px;
+    border-radius: 0px;
+  }
